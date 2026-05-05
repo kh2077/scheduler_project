@@ -100,7 +100,7 @@ The simulator is pre-configured (conceptually) to be tested against four critica
 | Seif Allah Ehab  | [@Saifsaadawy](https://github.com/Saifsaadawy)         |Gantt Chart Visualization, UI Graphics             | 
 | Yassin Eid       | [@da4b0](https://github.com/da4b0)                     |Metrics Calculation (WT, TAT, RT), Scenario Testing |
 | Karim Mohamed    | [@Kimo7732](https://github.com/Kimo7732)               |Input Validation, Safety Protocols & Error Handling |
-| Karim Hussein    | [@](https://github.com/)                               |Scenario Testing,Edge Cases Analysis &Report Writing|
+| Karim Hussein    | [@Kareem-Hussien-Zahran](https://github.com/Kareem-Hussien-Zahran)|Scenario Testing,Edge Cases Analysis &Report Writing|
 ---
 
 ## 🚀 Getting Started
